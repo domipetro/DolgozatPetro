@@ -16,4 +16,9 @@ git merge feature
 git status
 git add --a
 git commit -a -m "Konfliktus sikeresen megoldva"
-
+git remote add origin https://github.com/domipetro/DolgozatPetro.git
+git push -u origin main
+git status
+git add --a
+git commit -a -m "commands.txt befejezve"
+git push
