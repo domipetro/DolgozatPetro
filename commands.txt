@@ -1,0 +1,14 @@
+git init
+git status
+git add --a
+git status
+git add README.md
+git commit -a -m "A README fájlba rövid leírás megtörtént."
+git branch -c "feature"
+git checkout feature
+git status
+git add --a
+git commit -a -m "Változtatás a README fájlban"
+git checkout main
+git add --a
+git commit -a -m "Változás a README fájlban a mainen"
