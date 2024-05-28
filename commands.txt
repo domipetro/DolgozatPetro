@@ -12,3 +12,8 @@ git commit -a -m "Változtatás a README fájlban"
 git checkout main
 git add --a
 git commit -a -m "Változás a README fájlban a mainen"
+git merge feature
+git status
+git add --a
+git commit -a -m "Konfliktus sikeresen megoldva"
+
