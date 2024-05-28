@@ -1,0 +1,3 @@
+1. A git egy verziókezelő eszköz, a GitHub-ba pedig ezeket és különféle fájlokat tudunk tárolni.
+2. A commit egy olyan parancs, amivel le tudjuk menteni a változtatásainkat, ami azért fontos, mert ha például egy csoportmunka van akkor a csapattársaid is tudják, hogy eddig mit csináltál meg, vagy akár arra is jó, hogy saját magad szemmel tudd tartani azt, hogy mi van kész eddig.
+3. A branchet arra használják, hogy ha egy adott csoportban a tagoknak külöbnöző feladatuk van akkor mindenkinek legyen egy külön branche és ott dolgozzon, ezzel nem zavarnak bele a többi ember munkájába, ezeket a brancheket összemergeli a fő ember és ezzel lehet egy kész munkát végezni.
